@@ -1,0 +1,9 @@
+print(5+2)
+#and
+print(6-3)
+#and
+print(5*3)
+#and
+print(4/2)
+#and
+print(5%2)
