@@ -1,0 +1,6 @@
+myname=input("What is your name?")
+yourage=input("and age?")
+yourfriend=input("Who is your friend?")
+hometown=input("Where are you from")
+versity=input("what is your versity?")
+print("Welcome to Python World,", myname, "!", yourage, " and", yourfriend, " then", hometown, " lastly", versity, ".")
