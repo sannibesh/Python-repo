@@ -6,4 +6,4 @@ while True:
         continue
     if n == 0:
         break
-    print("Square of", n, "is", n*n)
+    print("root of", n, "is", n*0.5)
