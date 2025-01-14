@@ -1,3 +1,4 @@
+import math
 while True:
     n = input("Please enter a positive number (0 to exit): ")
     n = int(n)
@@ -6,4 +7,4 @@ while True:
         continue
     if n == 0:
         break
-    print("root of", n, "is", n*0.5)
+    print("square root of", n, "is", sqrt.math(n))
